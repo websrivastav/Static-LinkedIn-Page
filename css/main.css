@@ -703,6 +703,9 @@ border-bottom: 1px solid #00000014;
     .mob-stickynav .menu-bar ul {
         justify-content: space-around;
     }
+    .menu-bar ul li{
+        font-weight: 600;
+    }
 } 
 @media (max-width:991px) and (min-width:768px){
     .main-body {
